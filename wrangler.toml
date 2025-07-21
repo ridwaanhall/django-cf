@@ -1,0 +1,4 @@
+name = "django-cf"
+main = "django_cf/wsgi.py"
+compatibility_flags = ["python_workers"]
+compatibility_date = "2025-07-22"
